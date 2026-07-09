@@ -35,4 +35,5 @@ R packages: `tidyverse`, `caret`, `ranger`, `readxl`, `janitor`, `pROC`, `ggplot
 
 **Citation:**  
 This workflow was developed for binary classification of *C. sakazakii* isolates based on pan-genomic features.  
-If used in a publication, please cite the corresponding methods description.
+If used in a publication, please cite:
+>[Chen, Z., & Cui, M. (2026). Genomic insights into antimicrobial resistance and isolation source classification of *Cronobacter sakazakii* from infant and toddler food in the United States. Letters in Applied Microbiology, 79(7), ovag054.](https://academic.oup.com/lambio/article/79/7/ovag054/8707699)
